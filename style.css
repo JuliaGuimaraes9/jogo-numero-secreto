@@ -47,10 +47,11 @@ h3{
 }
 
 .btn-jogar{
-    padding: 8px 15px;
+    font-size: 20px;
+    padding: 20px 40px;
     border: 0;
     background: var(--primary-color);
     color: var(--bg-color);
-    border-radius: 5px;
+    border-radius: 8px;
     margin-top: 20px;
 }
